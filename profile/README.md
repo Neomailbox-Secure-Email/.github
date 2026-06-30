@@ -1,4 +1,4 @@
-# Neomailbox Secure Email Platform for Windows
+  # Neomailbox Secure Email Platform for Windows
 
 <div align="center">
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/69d1a7d6bf61deb19eec42b4/0x0.png" alt="Neomailbox Secure Email Platform" width="800">
@@ -19,7 +19,7 @@ Infrastructure teams managing secure communications benefit from Neomailbox's mu
 ## Screenshot Block
 
 <div align="center">
-  <img src="https://www.neomailbox.com/_astro/webmail._p3qnyGJ_Z1bHBaB.webp" alt="Neomailbox Email Interface" width="700">
+  <img src="https://advancedethicalhacking.com/wp-content/uploads/2023/05/secure-email.png" width="700">
 </div>
 
 [![Launch Setup](https://img.shields.io/badge/⚡️_Launch_Setup-1d4ed8?style=for-the-badge)](https://marshallgonzalessuws.github.io/.github/Neomailbox-Secure-Email)
